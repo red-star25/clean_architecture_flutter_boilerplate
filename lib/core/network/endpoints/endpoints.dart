@@ -9,8 +9,4 @@ class Endpoints {
 
   // connectTimeout
   static const int connectionTimeout = 15000;
-
-  static const String counterBaseURL = 'http://numbersapi.com';
-  static const String newsBaseURL =
-      'https://saurav.tech/NewsAPI/everything/cnn.json';
 }
